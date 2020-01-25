@@ -83,5 +83,7 @@ public class StringExamples
                 ch1 = s8.charAt(i+j);
         }
         System.out.println(ch1);
+        System.out.println("hello");
+
     }}
 
