@@ -1,6 +1,8 @@
 
 package com.lambton;
 
+import java.util.Arrays;
+
 public class FirstExample
 
 {
@@ -30,6 +32,7 @@ public class FirstExample
             System.out.println("F1 = "+f1);
             System.out.println("F2 = "+f2);
             float c=10/3f;
+            System.out.println(f1+f2);
 
             System.out.println(c);
             float c1 = 10f/3f;
